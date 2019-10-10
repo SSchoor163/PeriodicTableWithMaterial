@@ -1,0 +1,16 @@
+table, body {
+    width: 100%;
+  }
+  html{
+      margin: none
+  }
+  th.mat-sort-header-sorted {
+    color: black;
+  }
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  .mat-column-select {
+    overflow: initial;
+  }
